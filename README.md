@@ -9,16 +9,15 @@ https://www.figma.com/proto/VzVzm30AF0JotxAvq4joqp/Front-end_prototype_teste?nod
 -------------
 
 # BACK-LOG
-## *Clicar no ícone de olho do campo de senha deve alternar entre mostrar e esconder a senha*
+> ### *Clicar no ícone de olho do campo de senha deve alternar entre mostrar e esconder a senha*
+> **Descrição**
+> Como usuário, quero poder ocultar ou mostrar a senha que estou digitando
+> Para ter mais segurança com minha senha.
 
-## Description
-Como usuário, quero poder ocultar ou mostrar a senha que estou digitando
-Para ter mais segurança com minha senha.
-
-## Acceptance Criteria
-Seguir design conforme FIGMA;
-Ao clicar no olho, deverá mostrar ou esconder a senha digitada
-Caso o usuário digite com a senha escondida, permanecerá com os dados escondidos.
+> **Critérios de Aceitação**
+> Seguir design conforme FIGMA;
+> Ao clicar no olho, deverá mostrar ou esconder a senha digitada
+> Caso o usuário digite com a senha escondida, permanecerá com os dados escondidos.
 
 -------------
 
