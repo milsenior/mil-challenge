@@ -56,7 +56,7 @@ Diferenciais:
 - Componentização
 - Clean Code
 - Hooks
-- Redux
+- Redux ou Context API
 - Validações usando alguma lib (Yup, por exemplo)
 
 
