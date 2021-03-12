@@ -63,6 +63,7 @@ Diferenciais:
 # BACK-END
 Obrigatoriamente, deve-se usar .NET ou NODE. Os diferenciais não devem ser seguidos à risca. Use o que tiver maior familiaridade.
 - Banco de dados SQL Server
+- Clean Code
 - Driven Domain Desing
 - Teste unitário e Integrados
 
