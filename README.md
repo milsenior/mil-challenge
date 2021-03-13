@@ -1,4 +1,4 @@
-# MIL Challenger
+# MIL Challenge
 Desafio do MIL (Medicine Innovation Lab)
 
 Aqui está os desafios para a primeira fase de testes de candidatos do MIL. 
